@@ -17,6 +17,7 @@
 * успешных - 30 (78,94%)
 * неуспешных - 8 (21,06%)
 
-   ![img1.png](img1.png)
+   
 
 
+![img1](https://github.com/user-attachments/assets/d133df38-6307-469e-a2df-b5d1cf896a9f)
